@@ -17,7 +17,7 @@
 ###  📫 How to reach me:
 <br />
 <a  href="https://www.linkedin.com/in/annavar-satish-5b1a64236" target="_blank"><img alt="LinkedIn" 
-src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
+src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a href="mailto: annavarsatish10@gmail.com"><img alt="annavarsatish10@gmail.com" src="https://img.shields.io/badge/-Email-white" /></a> &nbsp;
 
 
 <h3>
