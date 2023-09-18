@@ -53,7 +53,7 @@ src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&lo
 <!-- ![Vagrant](https://img.shields.io/badge/vagrant-informational?style=for-the-badge&logo=vagrant&color=black) -->
 <!-- ![Istio](https://img.shields.io/badge/-Istio-informational?style=for-the-badge&logo=Istio&color=black) -->
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Annavar-satish)
+<!-- ![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Annavar-satish) -->
 
 <!-- ![](https://img.shields.io/badge/Temporal.io-informational?style=for-the-badge&logo=Temporalio&color=black) -->
 <!-- ![](https://img.shields.io/badge/Database-ElasticSearch-informational?style=for-the-badge&logo=elasticsearch&color=black) -->
